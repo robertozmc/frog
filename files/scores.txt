@@ -1,0 +1,1 @@
+Punkty ; Nazwa użytkownika ; Czas gry ; Czas dmuchania ; Data
