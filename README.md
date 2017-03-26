@@ -6,7 +6,7 @@
 
 ### 2D game for [eBlow](http://www.domestic.gda.pl/?p=136&lang=en) made with [Slick2D](http://slick.ninjacave.com/)
 
-##### This project was developed for *Modern programming languages* classes at Electronics, Telecommunications and Informatics faculty of Gdańsk University of Technology. This was my very first bigger programming project, Java in particular.
+##### This project was developed for *Modern programming languages* classes at Electronics, Telecommunications and Informatics faculty of Gdańsk University of Technology. This was my very first programming project, Java in particular.
 
 The game was meant for children and adults who are working on breath control and correct training their speech organ and aswell for people with facial palsy.
 The game has received many positive reviews from professionals in the speech therapy field.
